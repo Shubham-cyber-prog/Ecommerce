@@ -1,6 +1,6 @@
 # 🛒 Ecommerce Website
 
-A fully responsive and modern **Ecommerce web application** built with HTML, CSS, and JavaScript (or MERN stack if applicable). This project showcases a basic online shopping platform with a user-friendly UI and essential eCommerce features.
+A fully responsive and modern **Ecommerce web application** built with HTML, CSS, and JavaScript (or MEN stack if applicable). This project showcases a basic online shopping platform with a user-friendly UI and essential eCommerce features.
 
 ---
 
