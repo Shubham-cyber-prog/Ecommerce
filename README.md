@@ -1,15 +1,18 @@
-# 🛒 Ecommerce Website
+# 🛒 Ecommerce Web Application
 
-A fully responsive and modern **Ecommerce web application** built with HTML, CSS, and JavaScript (or MERN stack if applicable). This project showcases a basic online shopping platform with a user-friendly UI and essential eCommerce features.
+A full-stack **Ecommerce website** built using **HTML**, **CSS**, **JavaScript**, **Node.js**, **Express**, and **MongoDB**.  
+This project simulates a basic online store with product listing, cart management, and a backend API.
 
 ---
 
 ## 🚀 Features
 
-- 🛍️ Browse products
-- 🔍 Product search & filter
+- 🛍️ Product listing page
+- 🔍 View product details
 - 🛒 Add to cart
-- 💳 Checkout UI (static/demo)
-- 📱 Responsive design (mobile & desktop)
+- 🧩 RESTful API using Express
+- 💾 Data stored in MongoDB
+- 🔐 Environment variables for secure DB connection
 
----
+
+
